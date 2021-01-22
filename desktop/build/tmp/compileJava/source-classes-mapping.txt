@@ -1,0 +1,4 @@
+com/mygdx/game/desktop/AssetPacker.java
+ com.mygdx.game.desktop.AssetPacker
+com/mygdx/game/desktop/DesktopLauncher.java
+ com.mygdx.game.desktop.DesktopLauncher

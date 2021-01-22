@@ -1,0 +1,92 @@
+com/mygdx/game/ecs/system/CandiesSpawnSystem.java
+ com.mygdx.game.ecs.system.CandiesSpawnSystem
+com/mygdx/game/ecs/system/passive/EntityFactorySystem.java
+ com.mygdx.game.ecs.system.passive.EntityFactorySystem
+com/mygdx/game/ecs/system/BoundsSystem.java
+ com.mygdx.game.ecs.system.BoundsSystem
+com/mygdx/game/ecs/component/SnakeComponent.java
+ com.mygdx.game.ecs.component.SnakeComponent
+com/mygdx/game/ecs/system/debug/DebugInputSystem.java
+ com.mygdx.game.ecs.system.debug.DebugInputSystem
+com/mygdx/game/assets/AssetDescriptors.java
+ com.mygdx.game.assets.AssetDescriptors
+com/mygdx/game/config/GameConfig.java
+ com.mygdx.game.config.GameConfig
+com/mygdx/game/util/GdxUtils.java
+ com.mygdx.game.util.GdxUtils
+com/mygdx/game/ecs/system/SnakesSpawnSystem.java
+ com.mygdx.game.ecs.system.SnakesSpawnSystem
+com/mygdx/game/assets/RegionNames.java
+ com.mygdx.game.assets.RegionNames
+com/mygdx/game/ecs/component/BlueCandyParticleComponent.java
+ com.mygdx.game.ecs.component.BlueCandyParticleComponent
+com/mygdx/game/ecs/component/BoundsComponent.java
+ com.mygdx.game.ecs.component.BoundsComponent
+com/mygdx/game/ecs/system/WorldWrapSystem.java
+ com.mygdx.game.ecs.system.WorldWrapSystem
+com/mygdx/game/ecs/system/CleanUpSystem.java
+ com.mygdx.game.ecs.system.CleanUpSystem
+com/mygdx/game/ecs/component/FrogComponent.java
+ com.mygdx.game.ecs.component.FrogComponent
+com/mygdx/game/ecs/component/ZOrderComponent.java
+ com.mygdx.game.ecs.component.ZOrderComponent
+com/mygdx/game/ecs/system/FliesSpawnSystem.java
+ com.mygdx.game.ecs.system.FliesSpawnSystem
+com/mygdx/game/ecs/component/PositionComponent.java
+ com.mygdx.game.ecs.component.PositionComponent
+com/mygdx/game/ecs/component/TextureComponent.java
+ com.mygdx.game.ecs.component.TextureComponent
+com/mygdx/game/ecs/system/passive/StartUpSystem.java
+ com.mygdx.game.ecs.system.passive.StartUpSystem
+com/mygdx/game/ecs/system/debug/GridRenderSystem.java
+ com.mygdx.game.ecs.system.debug.GridRenderSystem
+com/mygdx/game/ecs/system/debug/DebugCameraSystem.java
+ com.mygdx.game.ecs.system.debug.DebugCameraSystem
+com/mygdx/game/GameManager.java
+ com.mygdx.game.GameManager
+com/mygdx/game/ecs/component/FlyComponent.java
+ com.mygdx.game.ecs.component.FlyComponent
+com/mygdx/game/ecs/component/ZOrderComparator.java
+ com.mygdx.game.ecs.component.ZOrderComparator
+com/mygdx/game/ecs/system/debug/support/DebugCameraController.java
+ com.mygdx.game.ecs.system.debug.support.DebugCameraController
+com/mygdx/game/ecs/component/CleanUpComponent.java
+ com.mygdx.game.ecs.component.CleanUpComponent
+com/mygdx/game/ecs/system/MovementSystem.java
+ com.mygdx.game.ecs.system.MovementSystem
+com/mygdx/game/ecs/system/RenderSystem.java
+ com.mygdx.game.ecs.system.RenderSystem
+com/mygdx/game/assets/AssetPaths.java
+ com.mygdx.game.assets.AssetPaths
+com/mygdx/game/ecs/component/DimensionComponent.java
+ com.mygdx.game.ecs.component.DimensionComponent
+com/mygdx/game/ecs/system/HUDRenderSystem.java
+ com.mygdx.game.ecs.system.HUDRenderSystem
+com/mygdx/game/ecs/component/Mappers.java
+ com.mygdx.game.ecs.component.Mappers
+com/mygdx/game/ecs/system/debug/DebugRenderSystem.java
+ com.mygdx.game.ecs.system.debug.DebugRenderSystem
+com/mygdx/game/ecs/system/passive/SoundSystem.java
+ com.mygdx.game.ecs.system.passive.SoundSystem
+com/mygdx/game/ecs/component/WorldWrapComponent.java
+ com.mygdx.game.ecs.component.WorldWrapComponent
+com/mygdx/game/ecs/system/CollisionSystem.java
+ com.mygdx.game.ecs.system.CollisionSystem
+com/mygdx/game/ecs/component/CandyComponent.java
+ com.mygdx.game.ecs.component.CandyComponent
+com/mygdx/game/ParticleEffectManager.java
+ com.mygdx.game.ParticleEffectManager
+com/mygdx/game/ecs/component/MovementComponentXYR.java
+ com.mygdx.game.ecs.component.MovementComponentXYR
+com/mygdx/game/ecs/system/debug/support/DebugCameraInfo.java
+ com.mygdx.game.ecs.system.debug.support.DebugCameraInfo
+com/mygdx/game/ecs/system/debug/support/ViewportUtils.java
+ com.mygdx.game.ecs.system.debug.support.ViewportUtils
+com/mygdx/game/ecs/system/FrogInputSystem.java
+ com.mygdx.game.ecs.system.FrogInputSystem
+com/mygdx/game/EatTheFlyGameECS.java
+ com.mygdx.game.EatTheFlyGameECS
+com/mygdx/game/ecs/system/ParticleEffectSystem.java
+ com.mygdx.game.ecs.system.ParticleEffectSystem
+com/mygdx/game/screen/GameScreen.java
+ com.mygdx.game.screen.GameScreen
